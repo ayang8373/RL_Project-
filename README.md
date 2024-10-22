@@ -1,1 +1,4 @@
-# RL_Project-
+# Reinforment Learning Project
+# Group 8
+
+
